@@ -27,7 +27,8 @@ crate = ['Egg', 'Fig', 'Grape']
 print('Basket list', basket)
 print('Basket elements', len(basket))
 
-# Инструкция:
+# Задания:
+# Инструкция 1:
 # 1. Добавить элемент в список
 # 2. Отобразить все элементы
 # 3. Удалить последний элемент
@@ -37,7 +38,7 @@ print('Appended:', basket)
 print('Last item removed:', basket.pop())
 print('Basket list', basket)
 
-# Инструкция:
+# Инструкция 2:
 # 1. Расширить первый список элементами второго
 # 2. Вывести все элементы первого списка
 # 3. Удалить элементы
