@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17daee48-bece-463f-a71b-2ede912eb25b" name="Default Changelist" comment="update_1">
-      <change afterPath="$PROJECT_DIR$/3.1_Instruction.construction/9_conclusion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.1_scope.of.variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1_Begin/1_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Begin/1.2_HelloWorld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1_Begin/1_debugging.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Begin/1.1_debugging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1_Begin/1_input().py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Begin/1.3_input().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.1_Begin/1_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Begin/1.4_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/1_ariphmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.1_ariphmetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/2_comparsion.value.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.2_comparsion.value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/3_evaluation.logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.3_evaluation.logic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/4_condition.check.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.4_condition.check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/5_prioritization.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.5_prioritization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/6_data.type.conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.6_data.type.conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/7_bit.manipulations.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.7_bit.manipulations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/1_Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.1_Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/2_work.with.lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.2_work.with.lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/3_immutable.lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.3_immutable.lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/4_associate.list.items.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.4_associate.list.items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/5_conditional.operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.5_conditional.operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/6_cycle.'while'.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.6_cycle.'while'.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/7_loop.traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.7_loop.traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.8_exit.cycle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/9_conclusion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.9_conclusion.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +32,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/9_conclusion.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="36" column="79" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,6 +60,7 @@
         <option value="$PROJECT_DIR$/3.1_Instruction.construction/6_cycle.'while'.py" />
         <option value="$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py" />
         <option value="$PROJECT_DIR$/3.1_Instruction.construction/9_conclusion.txt" />
+        <option value="$PROJECT_DIR$/4.1_Difinition.of.function/4.1_scope.of.variables.py" />
       </list>
     </option>
   </component>
@@ -65,6 +76,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,13 +87,12 @@
             <path>
               <item name="pythonlearning_1.1" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonlearning_1.1" type="462c0819:PsiDirectoryNode" />
-              <item name="3.1_Instruction.construction" type="462c0819:PsiDirectoryNode" />
+              <item name="4_Difinition.of.function" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,7 +258,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="679" height="716" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25692308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -334,66 +344,69 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/3_immutable.lists.py">
+    <entry file="file://$PROJECT_DIR$/3_Instruction.construction/3.3_immutable.lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/1_Lists.py">
+    <entry file="file://$PROJECT_DIR$/3_Instruction.construction/3.1_Lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-48" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/2_work.with.lists.py">
+    <entry file="file://$PROJECT_DIR$/3_Instruction.construction/3.2_work.with.lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/4_associate.list.items.py">
+    <entry file="file://$PROJECT_DIR$/3_Instruction.construction/3.4_associate.list.items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/5_conditional.operators.py">
+    <entry file="file://$PROJECT_DIR$/3_Instruction.construction/3.5_conditional.operators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
           <caret line="51" column="29" lean-forward="true" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/7_loop.traversal.py">
+    <entry file="file://$PROJECT_DIR$/3_Instruction.construction/3.7_loop.traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="56" column="26" lean-forward="true" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/6_cycle.'while'.py">
+    <entry file="file://$PROJECT_DIR$/3_Instruction.construction/3.6_cycle.'while'.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="54" column="41" lean-forward="true" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py">
+    <entry file="file://$PROJECT_DIR$/3_Instruction.construction/3.8_exit.cycle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/9_conclusion.txt">
+    <entry file="file://$PROJECT_DIR$/3_Instruction.construction/3.9_conclusion.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
           <caret line="36" column="79" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.1_scope.of.variables.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
