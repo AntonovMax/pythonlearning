@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17daee48-bece-463f-a71b-2ede912eb25b" name="Default Changelist" comment="update_1">
-      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/6_cycle.'while'.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.1_Instruction.construction/6_cycle.'while'.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,20 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/6_cycle.'while'.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="54" column="41" lean-forward="true" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+            <state relative-caret-position="283">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -55,8 +47,8 @@
         <option value="$PROJECT_DIR$/3.1_Instruction.construction/4_associate.list.items.py" />
         <option value="$PROJECT_DIR$/3.1_Instruction.construction/5_conditional.operators.py" />
         <option value="$PROJECT_DIR$/3.1_Instruction.construction/7_loop.traversal.py" />
-        <option value="$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py" />
         <option value="$PROJECT_DIR$/3.1_Instruction.construction/6_cycle.'while'.py" />
+        <option value="$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py" />
       </list>
     </option>
   </component>
@@ -106,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.6_cycle.'while'">
+  <component name="RunManager" selected="Python.8_exit.cycle">
     <configuration name="4_associate.list.items" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,8 +206,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6_cycle.'while'" />
         <item itemvalue="Python.8_exit.cycle" />
+        <item itemvalue="Python.6_cycle.'while'" />
         <item itemvalue="Python.7_loop.traversal" />
         <item itemvalue="Python.5_conditional.operators" />
         <item itemvalue="Python.4_associate.list.items" />
@@ -254,6 +246,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="679" height="716" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25692308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -369,17 +362,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/6_cycle.'while'.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="54" column="41" lean-forward="true" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
