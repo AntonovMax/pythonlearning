@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17daee48-bece-463f-a71b-2ede912eb25b" name="Default Changelist" comment="update_1">
-      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.1_Instruction.construction/9_conclusion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py">
+        <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/9_conclusion.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="339">
+              <caret line="36" column="79" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -48,6 +49,7 @@
         <option value="$PROJECT_DIR$/3.1_Instruction.construction/7_loop.traversal.py" />
         <option value="$PROJECT_DIR$/3.1_Instruction.construction/6_cycle.'while'.py" />
         <option value="$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py" />
+        <option value="$PROJECT_DIR$/3.1_Instruction.construction/9_conclusion.txt" />
       </list>
     </option>
   </component>
@@ -252,13 +254,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31438127" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31438127" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32838285" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33277592" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33277592" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32854864" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -320,6 +322,17 @@
     <MESSAGE value="update_1" />
     <option name="LAST_COMMIT_MESSAGE" value="update_1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/3_immutable.lists.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -370,8 +383,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="240">
+          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.1_Instruction.construction/9_conclusion.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="36" column="79" selection-start-line="36" selection-start-column="79" selection-end-line="36" selection-end-column="79" />
         </state>
       </provider>
     </entry>
