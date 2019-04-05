@@ -43,11 +43,13 @@
 
 """""
 
+
 # Задания:
 # 1. Определить функцию, принимающую 3 аргумента и вывести на печать их значения.
 
-def echo(user, lang, sys) :
+def echo(user, lang, sys):
     print('User:\t\t', user, '\nLanguage:\t', lang, '\nPlatform:\t', sys, '\n')
+
 
 # 2. Вызавать функцию, передав строковые значения ее аргументам в порядке определения.
 
@@ -56,18 +58,21 @@ echo('Mike', 'Python', 'Windows')
 
 # 3. Вызвать функцию, передав ей строковые значения путем указания имен агрументов.
 
-echo(lang = 'Python', sys = 'MacOS', user = 'Anna')
+echo(lang='Python', sys='MacOS', user='Anna')
+
 
 # 4. Объявить функцию, принимающую 2 аргумента со значениями, заданными по умолчанию
 # которая будет выводить свои аргументы.
 
-def mirror(user = 'Carole', lang = 'Python') :
+def mirror(user='Carole', lang='Python'):
     print('User:\t\t', user, '\nLanguage:\t', lang, '\n')
+
+
 mirror()
 
 # 5. Перепивать аргументы из заданяи 2.
 
-mirror(lang = 'Java')
-#mirror(user = 'Tony')
+mirror(lang='Java')
+# mirror(user = 'Tony')
 
 mirror('Susan', 'C++')

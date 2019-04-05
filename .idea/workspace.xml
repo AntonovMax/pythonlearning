@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17daee48-bece-463f-a71b-2ede912eb25b" name="Default Changelist" comment="update_1">
-      <change afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Difinition.of.function/4.4_callback.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.4_callback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Difinition.of.function/4.2_argument.substitution.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.2_argument.substitution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.4_callback.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="276">
+              <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -62,9 +55,9 @@
         <option value="$PROJECT_DIR$/4.1_Difinition.of.function/4.1_scope.of.variables.py" />
         <option value="$PROJECT_DIR$/3_Instruction.construction/3.8_exit.cycle.py" />
         <option value="$PROJECT_DIR$/4_Difinition.of.function/4.1_scope.of.variables.py" />
+        <option value="$PROJECT_DIR$/4_Difinition.of.function/4.4_callback.py" />
         <option value="$PROJECT_DIR$/4_Difinition.of.function/4.2_argument.substitution.py" />
         <option value="$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py" />
-        <option value="$PROJECT_DIR$/4_Difinition.of.function/4.4_callback.py" />
         <option value="$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py" />
       </list>
     </option>
@@ -115,28 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4.4_callback">
-    <configuration name="3.8_exit.cycle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonlearning_1.1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_Instruction.construction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_Instruction.construction/3.8_exit.cycle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.4.5_adding.placeholders">
     <configuration name="4.1_scope.of.variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,13 +193,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="4.5_adding.placeholders" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonlearning_1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Difinition.of.function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4.4_callback" />
-        <item itemvalue="Python.4.3_return.values" />
+        <item itemvalue="Python.4.5_adding.placeholders" />
         <item itemvalue="Python.4.2_argument.substitution" />
+        <item itemvalue="Python.4.3_return.values" />
+        <item itemvalue="Python.4.4_callback" />
         <item itemvalue="Python.4.1_scope.of.variables" />
-        <item itemvalue="Python.3.8_exit.cycle" />
       </list>
     </recent_temporary>
   </component>
@@ -411,38 +404,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.4_callback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.1_scope.of.variables.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        <state relative-caret-position="270">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.2_argument.substitution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+        <state relative-caret-position="569">
+          <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="59" column="20" lean-forward="true" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.4_callback.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+        <state relative-caret-position="304">
+          <caret line="64" column="38" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="276">
+          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
         </state>
       </provider>
     </entry>
