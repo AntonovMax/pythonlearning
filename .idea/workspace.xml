@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17daee48-bece-463f-a71b-2ede912eb25b" name="Default Changelist" comment="update_1">
-      <change afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.1_scope.of.variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.2_argument.substitution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1_Begin/1_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Begin/1.2_HelloWorld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1_Begin/1_debugging.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Begin/1.1_debugging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1_Begin/1_input().py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Begin/1.3_input().py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1_Begin/1_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Begin/1.4_variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/1_ariphmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.1_ariphmetic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/2_comparsion.value.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.2_comparsion.value.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/3_evaluation.logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.3_evaluation.logic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/4_condition.check.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.4_condition.check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/5_prioritization.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.5_prioritization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/6_data.type.conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.6_data.type.conversion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1_Exec.operations/7_bit.manipulations.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Exec.operations/2.7_bit.manipulations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/1_Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.1_Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/2_work.with.lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.2_work.with.lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/3_immutable.lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.3_immutable.lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/4_associate.list.items.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.4_associate.list.items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/5_conditional.operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.5_conditional.operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/6_cycle.'while'.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.6_cycle.'while'.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/7_loop.traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.7_loop.traversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.8_exit.cycle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.1_Instruction.construction/9_conclusion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3_Instruction.construction/3.9_conclusion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Difinition.of.function/4.1_scope.of.variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.1_scope.of.variables.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +14,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,11 +53,15 @@
         <option value="$PROJECT_DIR$/3.1_Instruction.construction/8_exit.cycle.py" />
         <option value="$PROJECT_DIR$/3.1_Instruction.construction/9_conclusion.txt" />
         <option value="$PROJECT_DIR$/4.1_Difinition.of.function/4.1_scope.of.variables.py" />
+        <option value="$PROJECT_DIR$/3_Instruction.construction/3.8_exit.cycle.py" />
+        <option value="$PROJECT_DIR$/4_Difinition.of.function/4.1_scope.of.variables.py" />
+        <option value="$PROJECT_DIR$/4_Difinition.of.function/4.2_argument.substitution.py" />
+        <option value="$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="679" />
+    <option name="width" value="680" />
     <option name="height" value="716" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -110,8 +106,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.8_exit.cycle">
-    <configuration name="4_associate.list.items" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.4.3_return.values">
+    <configuration name="3.8_exit.cycle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.1_Instruction.construction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_Instruction.construction" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.1_Instruction.construction/4_associate.list.items.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_Instruction.construction/3.8_exit.cycle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_conditional.operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4.1_scope.of.variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.1_Instruction.construction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Difinition.of.function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.1_Instruction.construction/5_conditional.operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.1_scope.of.variables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_cycle.'while'" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4.2_argument.substitution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.1_Instruction.construction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Difinition.of.function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.1_Instruction.construction/6_cycle.'while'.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.2_argument.substitution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7_loop.traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4.3_return.values" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.1_Instruction.construction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Difinition.of.function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.1_Instruction.construction/7_loop.traversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.3_return.values" />
+        <item itemvalue="Python.4.2_argument.substitution" />
+        <item itemvalue="Python.4.1_scope.of.variables" />
+        <item itemvalue="Python.3.8_exit.cycle" />
         <item itemvalue="Python.8_exit.cycle" />
-        <item itemvalue="Python.6_cycle.'while'" />
-        <item itemvalue="Python.7_loop.traversal" />
-        <item itemvalue="Python.5_conditional.operators" />
-        <item itemvalue="Python.4_associate.list.items" />
       </list>
     </recent_temporary>
   </component>
@@ -257,20 +253,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="679" height="716" extended-state="0" />
+    <frame x="0" y="0" width="680" height="716" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25692308" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2565284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31438127" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31772575" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32838285" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33277592" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32838285" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32854864" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -391,13 +388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_Instruction.construction/3.8_exit.cycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3_Instruction.construction/3.9_conclusion.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
@@ -405,8 +395,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/3_Instruction.construction/3.8_exit.cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.1_scope.of.variables.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.2_argument.substitution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
