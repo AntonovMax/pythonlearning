@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17daee48-bece-463f-a71b-2ede912eb25b" name="Default Changelist" comment="update_1">
+      <change afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.6_generators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.7_exception.handling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Difinition.of.function/4.2_argument.substitution.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.2_argument.substitution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,13 +13,72 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pythonlearning_1.1">
+      <favorite_root url="file://$PROJECT_DIR$" module="pythonlearning_1.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/.idea" module="pythonlearning_1.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/.idea/vcs.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/encodings.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/pythonlearning_1.1.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/1_Begin" module="pythonlearning_1.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/1_Begin/1.3_input().py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/1_Begin/1.1_debugging.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/1_Begin/1.4_variables.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/1_Begin/1.2_HelloWorld.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/.gitignore" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/2_Exec.operations" module="pythonlearning_1.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/2_Exec.operations/2.1_ariphmetic.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/2_Exec.operations/2.5_prioritization.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/2_Exec.operations/2.4_condition.check.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/2_Exec.operations/2.2_comparsion.value.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/2_Exec.operations/2.3_evaluation.logic.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/2_Exec.operations/2.7_bit.manipulations.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/2_Exec.operations/2.6_data.type.conversion.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/PyCharm_hotkeys.pdf" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/4_Difinition.of.function" module="pythonlearning_1.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/4_Difinition.of.function/4.4_callback.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/4_Difinition.of.function/4.1_scope.of.variables.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/4_Difinition.of.function/4.2_argument.substitution.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/3_Instruction.construction" module="pythonlearning_1.1" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/3_Instruction.construction/3.1_Lists.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/3_Instruction.construction/3.8_exit.cycle.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/3_Instruction.construction/3.9_conclusion.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/3_Instruction.construction/3.6_cycle.'while'.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/3_Instruction.construction/3.7_loop.traversal.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/3_Instruction.construction/3.2_work.with.lists.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/3_Instruction.construction/3.3_immutable.lists.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/3_Instruction.construction/3.4_associate.list.items.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/3_Instruction.construction/3.5_conditional.operators.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+      </favorite_root>
+    </favorites_list>
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.6_generators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+            <state relative-caret-position="224">
+              <caret line="65" selection-start-line="65" selection-end-line="67" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.7_exception.handling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="66" column="43" lean-forward="true" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -41,6 +100,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -59,6 +121,8 @@
         <option value="$PROJECT_DIR$/4_Difinition.of.function/4.2_argument.substitution.py" />
         <option value="$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py" />
         <option value="$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py" />
+        <option value="$PROJECT_DIR$/4_Difinition.of.function/4.6_generators.py" />
+        <option value="$PROJECT_DIR$/4_Difinition.of.function/4.7_exception.handling.py" />
       </list>
     </option>
   </component>
@@ -71,6 +135,7 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -108,28 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4.5_adding.placeholders">
-    <configuration name="4.1_scope.of.variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonlearning_1.1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Difinition.of.function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.1_scope.of.variables.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.4.7_exception.handling">
     <configuration name="4.2_argument.substitution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,27 +216,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.4_callback" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonlearning_1.1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Difinition.of.function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.4_callback.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="4.5_adding.placeholders" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,13 +237,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="4.6_generators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonlearning_1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Difinition.of.function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.6_generators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4.7_exception.handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonlearning_1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Difinition.of.function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.7_exception.handling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.7_exception.handling" />
+        <item itemvalue="Python.4.6_generators" />
         <item itemvalue="Python.4.5_adding.placeholders" />
         <item itemvalue="Python.4.2_argument.substitution" />
         <item itemvalue="Python.4.3_return.values" />
-        <item itemvalue="Python.4.4_callback" />
-        <item itemvalue="Python.4.1_scope.of.variables" />
       </list>
     </recent_temporary>
   </component>
@@ -258,24 +323,43 @@
     <frame x="0" y="0" width="680" height="716" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2565284" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49887133" visible="true" weight="0.2565284" />
+      <window_info id="Structure" order="1" sideWeight="0.5011287" side_tool="true" weight="0.2565284" />
+      <window_info id="Favorites" order="2" sideWeight="0.5011287" side_tool="true" weight="0.2565284" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31772575" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32838285" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3277592" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32854864" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3277592" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49615976" weight="0.3277592" />
+      <window_info anchor="bottom" x="10" y="443" width="651" height="196" id="Terminal" order="8" sideWeight="0.50384027" side_tool="true" weight="0.3277592" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50076807" side_tool="true" weight="0.3277592" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49769586" weight="0.3277592" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49887133" visible="true" weight="0.2565284" />
+      <window_info id="Structure" order="1" sideWeight="0.5011287" side_tool="true" weight="0.2565284" />
+      <window_info id="Favorites" order="2" sideWeight="0.5011287" side_tool="true" weight="0.2565284" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31772575" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3277592" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49615976" weight="0.3277592" />
+      <window_info anchor="bottom" x="10" y="443" width="651" height="196" id="Terminal" order="8" sideWeight="0.50384027" side_tool="true" weight="0.3277592" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50076807" side_tool="true" weight="0.3277592" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49769586" weight="0.3277592" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -434,8 +518,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        <state relative-caret-position="460">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.6_generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="65" selection-start-line="65" selection-end-line="67" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.7_exception.handling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="66" column="43" lean-forward="true" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
         </state>
       </provider>
     </entry>

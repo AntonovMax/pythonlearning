@@ -14,9 +14,9 @@
 # 1. Проинициализировать переменную логическим значением, добавив незавершенный условный оператор:
 
 bool = True
-if bool :
+if bool:
     print('Python in easy steps')
-else :
+else:
 # Сюда добавляем операторы.
 # 2. Добавить вместо комментария ключевое слово pass.
     pass
@@ -27,20 +27,20 @@ title = '\nPython in easy steps\n'
 
 # 4. Добавить цикл, который выводит каждый символ строки.
 
-for char in title : print(char, end = ' ')
+for char in title: print(char, end=' ')
 
 # 5. Добавить еще цикл, который выводит символ строки, но заменяет символ y и переходит к следущей итерации.
 
-for char in title :
-    if char == 'y' :
-        print('*', end = ' ')
+for char in title:
+    if char == 'y':
+        print('*', end=' ')
         continue
-    print(char, end = ' ')
+    print(char, end=' ')
 
 # 6. Добавить след. цикл, который выводит каждый символ и добавляет * перед каждым символом y.
 
-for char in title :
-    if char == 'y' :
-        print('*y', end = ' ')
+for char in title:
+    if char == 'y':
+        print('*y', end=' ')
         continue
-    print(char, end = ' ')
+    print(char, end=' ')
