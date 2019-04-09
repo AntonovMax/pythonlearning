@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17daee48-bece-463f-a71b-2ede912eb25b" name="Default Changelist" comment="update_1">
-      <change afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.6_generators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.7_exception.handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.8_instuction.assert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.9_conclusion.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,20 +64,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.6_generators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="65" selection-start-line="65" selection-end-line="67" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.7_exception.handling.py">
+        <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.9_conclusion.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="66" column="43" lean-forward="true" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
+            <state relative-caret-position="252">
+              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -123,6 +113,8 @@
         <option value="$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py" />
         <option value="$PROJECT_DIR$/4_Difinition.of.function/4.6_generators.py" />
         <option value="$PROJECT_DIR$/4_Difinition.of.function/4.7_exception.handling.py" />
+        <option value="$PROJECT_DIR$/4_Difinition.of.function/4.8_instuction.assert.py" />
+        <option value="$PROJECT_DIR$/4_Difinition.of.function/4.9_conclusion.txt" />
       </list>
     </option>
   </component>
@@ -160,6 +152,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -173,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4.7_exception.handling">
+  <component name="RunManager" selected="Python.4.8_instuction.assert">
     <configuration name="4.2_argument.substitution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,27 +180,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.2_argument.substitution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4.3_return.values" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonlearning_1.1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Difinition.of.function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,13 +251,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="4.8_instuction.assert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonlearning_1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Difinition.of.function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.8_instuction.assert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.8_instuction.assert" />
         <item itemvalue="Python.4.7_exception.handling" />
         <item itemvalue="Python.4.6_generators" />
         <item itemvalue="Python.4.5_adding.placeholders" />
         <item itemvalue="Python.4.2_argument.substitution" />
-        <item itemvalue="Python.4.3_return.values" />
       </list>
     </recent_temporary>
   </component>
@@ -323,20 +316,20 @@
     <frame x="0" y="0" width="680" height="716" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49887133" visible="true" weight="0.2565284" />
-      <window_info id="Structure" order="1" sideWeight="0.5011287" side_tool="true" weight="0.2565284" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49509802" visible="true" weight="0.2565284" />
+      <window_info id="Structure" order="1" sideWeight="0.50490195" side_tool="true" weight="0.2565284" />
       <window_info id="Favorites" order="2" sideWeight="0.5011287" side_tool="true" weight="0.2565284" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31772575" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49923196" visible="true" weight="0.31772575" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3277592" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49615976" weight="0.3277592" />
-      <window_info anchor="bottom" x="10" y="443" width="651" height="196" id="Terminal" order="8" sideWeight="0.50384027" side_tool="true" weight="0.3277592" />
+      <window_info anchor="bottom" x="10" y="443" width="651" height="196" id="Terminal" order="8" sideWeight="0.50076807" side_tool="true" weight="0.31772575" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50076807" side_tool="true" weight="0.3277592" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49769586" weight="0.3277592" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49615976" weight="0.3277592" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -532,8 +525,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.7_exception.handling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
+        <state relative-caret-position="264">
           <caret line="66" column="43" lean-forward="true" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_Exec.operations/2.2_comparsion.value.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_Exec.operations/2.3_evaluation.logic.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_Exec.operations/2.6_data.type.conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.8_instuction.assert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="62" column="3" lean-forward="true" selection-start-line="62" selection-start-column="3" selection-end-line="62" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.9_conclusion.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
         </state>
       </provider>
     </entry>
