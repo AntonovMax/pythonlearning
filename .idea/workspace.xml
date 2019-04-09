@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17daee48-bece-463f-a71b-2ede912eb25b" name="Default Changelist" comment="update_1">
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.1_files/cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.1_files/kitty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.1_files/tiger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.1_function.storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.2_files/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.2_files/fido.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.2_files/pooch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.2_ownership.of.function.names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.3_system.queries.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,44 +66,7 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_function.storage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="82" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_files/tiger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_files/cat.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_files/kitty.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -150,10 +114,16 @@
         <option value="$PROJECT_DIR$/5_Impot.modules/5.1_function.storage.py" />
         <option value="$PROJECT_DIR$/5_Impot.modules/5.1_files/kitty.py" />
         <option value="$PROJECT_DIR$/5_Impot.modules/5.1_files/tiger.py" />
+        <option value="$PROJECT_DIR$/5_Impot.modules/5.2_ownership.of.function.names.py" />
+        <option value="$PROJECT_DIR$/5_Impot.modules/5.2_files/вщп.py" />
+        <option value="$PROJECT_DIR$/5_Impot.modules/5.2_files/dog.py" />
+        <option value="$PROJECT_DIR$/5_Impot.modules/5.2_files/pooch.py" />
+        <option value="$PROJECT_DIR$/5_Impot.modules/5.2_files/fido.py" />
+        <option value="$PROJECT_DIR$/5_Impot.modules/5.3_system.queries.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="width" value="680" />
     <option name="height" value="716" />
   </component>
@@ -178,12 +148,6 @@
               <item name="pythonlearning_1.1" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonlearning_1.1" type="462c0819:PsiDirectoryNode" />
               <item name="5_Impot.modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonlearning_1.1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonlearning_1.1" type="462c0819:PsiDirectoryNode" />
-              <item name="5_Impot.modules" type="462c0819:PsiDirectoryNode" />
-              <item name="5.1_files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,50 +179,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tiger">
-    <configuration name="4.7_exception.handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonlearning_1.1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Difinition.of.function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.7_exception.handling.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4.8_instuction.assert" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonlearning_1.1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Difinition.of.function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.8_instuction.assert.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5.1_function.storage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.5.3_system.queries">
+    <configuration name="5.3_system.queries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,7 +192,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.1_function.storage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.3_system.queries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kitty" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,11 +209,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules/5.2_files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\alkamynin\Documents\GitHub\pythonlearning_1.1\5_Impot.modules\5.1_files\kitty.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.2_files/dog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fido" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonlearning_1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules/5.2_files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.2_files/fido.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pooch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonlearning_1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules/5.2_files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.2_files/pooch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,11 +287,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5.3_system.queries" />
+        <item itemvalue="Python.fido" />
+        <item itemvalue="Python.pooch" />
+        <item itemvalue="Python.dog" />
         <item itemvalue="Python.tiger" />
-        <item itemvalue="Python.kitty" />
-        <item itemvalue="Python.5.1_function.storage" />
-        <item itemvalue="Python.4.8_instuction.assert" />
-        <item itemvalue="Python.4.7_exception.handling" />
       </list>
     </recent_temporary>
   </component>
@@ -363,21 +327,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="680" height="716" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49509802" visible="true" weight="0.43164364" />
       <window_info id="Structure" order="1" sideWeight="0.50490195" side_tool="true" weight="0.2565284" />
       <window_info id="Favorites" order="2" sideWeight="0.5011287" side_tool="true" weight="0.2565284" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49769586" visible="true" weight="0.31772575" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49769586" weight="0.31772575" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3277592" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49615976" weight="0.3277592" />
-      <window_info anchor="bottom" x="10" y="443" width="651" height="196" id="Terminal" order="8" sideWeight="0.50230414" side_tool="true" weight="0.31772575" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50076807" side_tool="true" weight="0.3277592" />
+      <window_info anchor="bottom" x="10" y="443" width="651" height="196" id="Terminal" order="8" sideWeight="0.49923196" weight="0.31772575" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50076807" side_tool="true" weight="0.31772575" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49615976" weight="0.3277592" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -607,6 +570,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_files/tiger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_files/kitty.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -614,10 +584,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_files/tiger.py">
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.2_ownership.of.function.names.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        <state relative-caret-position="-121">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.2_files/pooch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.2_files/fido.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.2_files/dog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.3_system.queries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
