@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17daee48-bece-463f-a71b-2ede912eb25b" name="Default Changelist" comment="update_1">
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.4_math.operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.5_calculations.with.decimal.fractions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.6_work.with.time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.7_start.timer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_Impot.modules/5.7_start.timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_Impot.modules/5.7_start.timer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.7_start.timer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="32">
-              <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -364,13 +361,13 @@
       <window_info id="Favorites" order="2" sideWeight="0.5011287" side_tool="true" weight="0.2565284" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49769586" visible="true" weight="0.3160535" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49769586" weight="0.3160535" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32608697" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49615976" weight="0.32673267" />
-      <window_info anchor="bottom" x="10" y="443" width="651" height="196" id="Terminal" order="8" sideWeight="0.49923196" weight="0.3160535" />
+      <window_info active="true" anchor="bottom" x="10" y="443" width="651" height="196" id="Terminal" order="8" sideWeight="0.49923196" visible="true" weight="0.3160535" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50076807" side_tool="true" weight="0.31772575" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49615976" weight="0.32608697" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -673,7 +670,7 @@
     <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.7_start.timer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
-          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
         </state>
       </provider>
     </entry>
