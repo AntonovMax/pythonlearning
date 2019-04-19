@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17daee48-bece-463f-a71b-2ede912eb25b" name="Default Changelist" comment="update_1">
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.2_files/dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.2_files/fido.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.2_files/pooch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.2_ownership.of.function.names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.3_system.queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.4_math.operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.5_calculations.with.decimal.fractions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.6_work.with.time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.7_start.timer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,7 +65,17 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.7_start.timer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -120,10 +129,16 @@
         <option value="$PROJECT_DIR$/5_Impot.modules/5.2_files/pooch.py" />
         <option value="$PROJECT_DIR$/5_Impot.modules/5.2_files/fido.py" />
         <option value="$PROJECT_DIR$/5_Impot.modules/5.3_system.queries.py" />
+        <option value="$PROJECT_DIR$/5_Impot.modules/5.4_mtah.operations.py" />
+        <option value="$PROJECT_DIR$/5_Impot.modules/5.4_math.operations.py" />
+        <option value="$PROJECT_DIR$/5_Impot.modules/5.5_calculations.with.decimal.fractions.py" />
+        <option value="$PROJECT_DIR$/5_Impot.modules/5.6_work.with.time.py" />
+        <option value="$PROJECT_DIR$/5_Impot.modules/5.6_start.timer.py" />
+        <option value="$PROJECT_DIR$/5_Impot.modules/5.7_start.timer.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="width" value="680" />
     <option name="height" value="716" />
   </component>
@@ -136,7 +151,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="pythonlearning_1.1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="pythonlearning_1.1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="5_Impot.modules" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,7 +209,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5.3_system.queries">
+  <component name="RunManager" selected="Python.5.6_work.with.time">
+    <configuration name="4.7_exception.handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonlearning_1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_Difinition.of.function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_Difinition.of.function/4.7_exception.handling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="5.3_system.queries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,7 +252,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5.4_math.operations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,11 +260,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules/5.2_files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.2_files/dog.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.4_math.operations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fido" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5.5_calculations.with.decimal.fractions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,11 +281,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules/5.2_files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.2_files/fido.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.5_calculations.with.decimal.fractions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pooch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5.6_work.with.time" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,32 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules/5.2_files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.2_files/pooch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tiger" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonlearning_1.1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules/5.1_files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.1_files/tiger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.6_work.with.time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5.6_work.with.time" />
+        <item itemvalue="Python.5.5_calculations.with.decimal.fractions" />
+        <item itemvalue="Python.5.4_math.operations" />
         <item itemvalue="Python.5.3_system.queries" />
-        <item itemvalue="Python.fido" />
-        <item itemvalue="Python.pooch" />
-        <item itemvalue="Python.dog" />
-        <item itemvalue="Python.tiger" />
+        <item itemvalue="Python.4.7_exception.handling" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +346,7 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -327,44 +357,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="680" height="716" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49509802" visible="true" weight="0.43164364" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49509802" weight="0.40860215" />
       <window_info id="Structure" order="1" sideWeight="0.50490195" side_tool="true" weight="0.2565284" />
       <window_info id="Favorites" order="2" sideWeight="0.5011287" side_tool="true" weight="0.2565284" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49769586" weight="0.31772575" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49769586" visible="true" weight="0.3160535" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3277592" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49615976" weight="0.3277592" />
-      <window_info anchor="bottom" x="10" y="443" width="651" height="196" id="Terminal" order="8" sideWeight="0.49923196" weight="0.31772575" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32608697" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49615976" weight="0.32673267" />
+      <window_info anchor="bottom" x="10" y="443" width="651" height="196" id="Terminal" order="8" sideWeight="0.49923196" weight="0.3160535" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50076807" side_tool="true" weight="0.31772575" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49615976" weight="0.3277592" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49615976" weight="0.32608697" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49887133" visible="true" weight="0.2565284" />
-      <window_info id="Structure" order="1" sideWeight="0.5011287" side_tool="true" weight="0.2565284" />
-      <window_info id="Favorites" order="2" sideWeight="0.5011287" side_tool="true" weight="0.2565284" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31772575" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3277592" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49615976" weight="0.3277592" />
-      <window_info anchor="bottom" x="10" y="443" width="651" height="196" id="Terminal" order="8" sideWeight="0.50384027" side_tool="true" weight="0.3277592" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50076807" side_tool="true" weight="0.3277592" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49769586" weight="0.3277592" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -419,6 +431,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update_1" />
     <option name="LAST_COMMIT_MESSAGE" value="update_1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog>
+          <selected-grouping-rules>
+            <grouping-rule id="by-file" />
+          </selected-grouping-rules>
+        </breakpoints-dialog>
+      </breakpoints-dialog>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/3_Instruction.construction/3.3_immutable.lists.py">
@@ -482,13 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.4_callback.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.1_scope.of.variables.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -503,34 +519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="64" column="38" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.6_generators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="65" selection-start-line="65" selection-end-line="67" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.7_exception.handling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="66" column="43" lean-forward="true" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2_Exec.operations/2.2_comparsion.value.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -542,13 +530,6 @@
         <state relative-caret-position="-96" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.8_instuction.assert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="62" column="3" lean-forward="true" selection-start-line="62" selection-start-column="3" selection-end-line="62" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.9_conclusion.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -556,31 +537,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_function.storage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="82" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_files/cat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_files/tiger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_files/kitty.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -612,10 +572,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.5_adding.placeholders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.6_generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-368">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_function.storage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="82" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_files/cat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.1_files/kitty.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.3_return.values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="64" column="38" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.4_callback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.8_instuction.assert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.7_exception.handling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-713">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.4_math.operations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.3_system.queries.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="272">
+          <caret line="40" column="15" lean-forward="true" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.5_calculations.with.decimal.fractions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="52" column="33" lean-forward="true" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.6_work.with.time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="71" column="37" lean-forward="true" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.7_start.timer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
         </state>
       </provider>
     </entry>
