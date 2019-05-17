@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17daee48-bece-463f-a71b-2ede912eb25b" name="Default Changelist" comment="update_1">
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.8_pattern.matching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_Impot.modules/5.9_conclusion.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_Lines.and.work.with.files/6.1_work.with.lines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Lines.and.work.with.files/6.2_formatting.strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Lines.and.work.with.files/6.3_line.modifications.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Lines.and.work.with.files/6.4_string.conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Lines.and.work.with.files/6.5_file.access.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Lines.and.work.with.files/6.6_Read&amp;Write.files.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_Impot.modules/5.7_start.timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_Impot.modules/5.7_start.timer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_Impot.modules/5.8_pattern.matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_Impot.modules/5.8_pattern.matching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Lines.and.work.with.files/6.1_work.with.lines.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_Lines.and.work.with.files/6.1_work.with.lines.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,12 +68,12 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/6_Lines.and.work.with.files/6.1_work.with.lines.py">
+        <entry file="file://$PROJECT_DIR$/6_Lines.and.work.with.files/6.6_Read&amp;Write.files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="48">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -135,13 +138,20 @@
         <option value="$PROJECT_DIR$/5_Impot.modules/5.6_work.with.time.py" />
         <option value="$PROJECT_DIR$/5_Impot.modules/5.6_start.timer.py" />
         <option value="$PROJECT_DIR$/5_Impot.modules/5.7_start.timer.py" />
-        <option value="$PROJECT_DIR$/5_Impot.modules/5.8_pattern.matching.py" />
         <option value="$PROJECT_DIR$/5_Impot.modules/5.9_conclusion.txt" />
+        <option value="$PROJECT_DIR$/5_Impot.modules/5.8_pattern.matching.py" />
         <option value="$PROJECT_DIR$/6_Lines.and.work.with.files/6.1_work.with.lines.py" />
+        <option value="$PROJECT_DIR$/6_Lines.and.work.with.files/6.2_formatting.strings.py" />
+        <option value="$PROJECT_DIR$/6_Lines.and.work.with.files/6.3_line.modifications.py" />
+        <option value="$PROJECT_DIR$/6_Lines.and.work.with.files/6.4_string.conversion.py" />
+        <option value="$PROJECT_DIR$/6_Lines.and.work.with.files/6.5_file.access.py" />
+        <option value="$PROJECT_DIR$/6_Lines.and.work.with.files/6.6_Read&amp;Write.file.py" />
+        <option value="$PROJECT_DIR$/6_Lines.and.work.with.files/6.6_Read&amp;Write.files.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="680" />
     <option name="width" value="680" />
     <option name="height" value="716" />
   </component>
@@ -177,6 +187,11 @@
               <item name="pythonlearning_1.1" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonlearning_1.1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pythonlearning_1.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonlearning_1.1" type="462c0819:PsiDirectoryNode" />
+              <item name="6_Lines.and.work.with.files" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -207,8 +222,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5.8_pattern.matching">
-    <configuration name="5.4_math.operations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.6.5_file.access">
+    <configuration name="6.2_formatting.strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,11 +231,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_Lines.and.work.with.files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.4_math.operations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_Lines.and.work.with.files/6.2_formatting.strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.5_calculations.with.decimal.fractions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6.3_line.modifications" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,11 +252,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_Lines.and.work.with.files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.5_calculations.with.decimal.fractions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_Lines.and.work.with.files/6.3_line.modifications.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.6_work.with.time" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6.4_string.conversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,11 +273,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_Lines.and.work.with.files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.6_work.with.time.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_Lines.and.work.with.files/6.4_string.conversion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +286,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.7_start.timer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6.5_file.access" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,11 +294,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_Lines.and.work.with.files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.7_start.timer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_Lines.and.work.with.files/6.5_file.access.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,34 +307,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.8_pattern.matching" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Doctests in 6.2_formatting.strings" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning_1.1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_Impot.modules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_Lines.and.work.with.files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Impot.modules/5.8_pattern.matching.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_Lines.and.work.with.files/6.2_formatting.strings.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5.8_pattern.matching" />
-        <item itemvalue="Python.5.7_start.timer" />
-        <item itemvalue="Python.5.6_work.with.time" />
-        <item itemvalue="Python.5.5_calculations.with.decimal.fractions" />
-        <item itemvalue="Python.5.4_math.operations" />
+        <item itemvalue="Python.6.5_file.access" />
+        <item itemvalue="Python.6.4_string.conversion" />
+        <item itemvalue="Python.6.3_line.modifications" />
+        <item itemvalue="Python.6.2_formatting.strings" />
+        <item itemvalue="Python tests.Doctests in 6.2_formatting.strings" />
       </list>
     </recent_temporary>
   </component>
@@ -344,6 +356,11 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in_6_2_formatting_strings - 2019.04.26 at 11h 15m 07s.xml">
+      <configuration name="Doctests in 6.2_formatting.strings" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -354,7 +371,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="680" height="716" extended-state="0" />
+    <frame x="680" y="0" width="680" height="716" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49509802" visible="true" weight="0.40860215" />
@@ -367,7 +384,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32608697" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49615976" weight="0.32673267" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49615976" weight="0.32608697" />
       <window_info anchor="bottom" x="10" y="443" width="651" height="196" id="Terminal" order="8" sideWeight="0.49923196" weight="0.3160535" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50076807" side_tool="true" weight="0.31772575" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49615976" weight="0.32608697" />
@@ -668,13 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.8_pattern.matching.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="80" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4_Difinition.of.function/4.9_conclusion.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
@@ -689,10 +699,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/5_Impot.modules/5.8_pattern.matching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="62" column="13" lean-forward="true" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/6_Lines.and.work.with.files/6.1_work.with.lines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="168">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_Lines.and.work.with.files/6.2_formatting.strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="46" column="38" lean-forward="true" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_Lines.and.work.with.files/6.3_line.modifications.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_Lines.and.work.with.files/6.4_string.conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_Lines.and.work.with.files/6.5_file.access.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="60" column="38" lean-forward="true" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_Lines.and.work.with.files/6.6_Read&amp;Write.files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
